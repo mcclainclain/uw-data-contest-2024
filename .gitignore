@@ -1,0 +1,16 @@
+rsconnect/
+.vscode/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+
+.Rhistory
+
+*.log
+
+*.csv
+*.html
+
+
+cleanup.ipynb
+winpct.ipynb
